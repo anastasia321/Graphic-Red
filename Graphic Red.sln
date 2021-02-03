@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphic Red", "Graphic Red\Graphic Red.csproj", "{292F72B5-6D8A-4B46-99FE-81CA86B75141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292F72B5-6D8A-4B46-99FE-81CA86B75141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292F72B5-6D8A-4B46-99FE-81CA86B75141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292F72B5-6D8A-4B46-99FE-81CA86B75141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292F72B5-6D8A-4B46-99FE-81CA86B75141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBEEB5B1-E12A-420E-B6B2-67A27C47E47F}
+	EndGlobalSection
+EndGlobal
